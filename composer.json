@@ -1,0 +1,12 @@
+{
+    "name": "whsuite/addon-plesk",
+    "type": "whsuite-addon",
+    "description": "Plesk plugin for use within WHSuite",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ]
+}
